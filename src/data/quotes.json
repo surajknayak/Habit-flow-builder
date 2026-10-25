@@ -1,0 +1,2557 @@
+[
+  {
+    "id": "q001",
+    "text": "Small moves count. Start with one.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q002",
+    "text": "Your body keeps the score of every kind stretch.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q003",
+    "text": "Three minutes is plenty to feel different.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q004",
+    "text": "You don't need a perfect day, just the next move.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q005",
+    "text": "Stand up. Breathe. You've got this.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q006",
+    "text": "Motion is medicine. Your body thanks you for every stretch.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q007",
+    "text": "Progress loves consistency more than intensity.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q008",
+    "text": "A short walk is a big win today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q009",
+    "text": "Be kind to your back. It carries your whole day.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q010",
+    "text": "One reset now beats a pause button on pain later.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q011",
+    "text": "Move a little. Feel a lot better.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q012",
+    "text": "Rest is part of the plan, not a break from it.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q013",
+    "text": "Your next 3 minutes belong to you.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q014",
+    "text": "Every stretch is a message of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q015",
+    "text": "Little breaks add up to big comfort.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q016",
+    "text": "Today's goal: be a little looser than yesterday.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q017",
+    "text": "Show up softly. Show up often.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q018",
+    "text": "Your desk can wait. Your spine can't.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q019",
+    "text": "Breathe in calm, breathe out tension.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q020",
+    "text": "Start where you are. Use what you have.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q021",
+    "text": "A gentle day still counts as a day.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q022",
+    "text": "Strong starts with steady.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q023",
+    "text": "Stretch, smile, repeat.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q024",
+    "text": "Your energy is built, not found. Build it in small pieces.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q025",
+    "text": "Walk it off, one block at a time.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q026",
+    "text": "Good posture is just a habit you practise.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q027",
+    "text": "You moved. That's the whole win.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q028",
+    "text": "Ease in, and keep going.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q029",
+    "text": "Make space in your day for your body.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q030",
+    "text": "The best workout is the one you actually do.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q031",
+    "text": "Take the stairs, take a breath, take a break.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q032",
+    "text": "Slow is smooth, and smooth is sustainable.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q033",
+    "text": "Your future self is stretching in thanks.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q034",
+    "text": "Loosen the shoulders. Soften the jaw. Begin again.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q035",
+    "text": "Keep your streak kind: one missed day is allowed.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q036",
+    "text": "Stand tall, breathe deep, feel the difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q037",
+    "text": "Another day, another gentle step forward.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q038",
+    "text": "Look up from the screen. The world is still there.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q039",
+    "text": "Habits grow from tiny seeds. Water yours today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q040",
+    "text": "Celebrate the small stuff. It's most of the work.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q041",
+    "text": "You showed up for your body today—nice work!",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q042",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q043",
+    "text": "Give your neck a soft pause from the screen.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q044",
+    "text": "Every single reset puts energy back in your tank!",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q045",
+    "text": "Consistent three-minute resets add over an hour weekly.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q046",
+    "text": "Step away from the keyboard and lengthen your spine.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q047",
+    "text": "Small wins stack up faster than you think!",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q048",
+    "text": "Ten gentle reps wake up postural muscles without soreness.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q049",
+    "text": "Let your eyes rest on something far and green.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q050",
+    "text": "You are turning healthy breaks into second nature!",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q051",
+    "text": "Small daily mobility work preserves comfortable joint range.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q052",
+    "text": "Release the tension hiding between your shoulder blades.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q053",
+    "text": "Your joints love it when you take a break!",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q054",
+    "text": "Gradual ten-percent steps build lasting endurance safely.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q055",
+    "text": "Treat your body like a friend, not a machine.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q056",
+    "text": "You showed up for your body today—nice work—your body notices every bit of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q057",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—your body notices every bit of care.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q058",
+    "text": "Give your neck a soft pause from the screen—your body notices every bit of care.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q059",
+    "text": "Every single reset puts energy back in your tank—your body notices every bit of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q060",
+    "text": "Consistent three-minute resets add over an hour weekly—your body notices every bit of care.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q061",
+    "text": "Step away from the keyboard and lengthen your spine—your body notices every bit of care.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q062",
+    "text": "Small wins stack up faster than you think—your body notices every bit of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q063",
+    "text": "Ten gentle reps wake up postural muscles without soreness—your body notices every bit of care.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q064",
+    "text": "Let your eyes rest on something far and green—your body notices every bit of care.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q065",
+    "text": "You are turning healthy breaks into second nature—your body notices every bit of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q066",
+    "text": "Small daily mobility work preserves comfortable joint range—your body notices every bit of care.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q067",
+    "text": "Release the tension hiding between your shoulder blades—your body notices every bit of care.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q068",
+    "text": "Your joints love it when you take a break—your body notices every bit of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q069",
+    "text": "Gradual ten-percent steps build lasting endurance safely—your body notices every bit of care.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q070",
+    "text": "Treat your body like a friend, not a machine—your body notices every bit of care.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q071",
+    "text": "You showed up for your body today—nice work—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q072",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q073",
+    "text": "Give your neck a soft pause from the screen—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q074",
+    "text": "Every single reset puts energy back in your tank—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q075",
+    "text": "Consistent three-minute resets add over an hour weekly—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q076",
+    "text": "Step away from the keyboard and lengthen your spine—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q077",
+    "text": "Small wins stack up faster than you think—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q078",
+    "text": "Ten gentle reps wake up postural muscles without soreness—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q079",
+    "text": "Let your eyes rest on something far and green—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q080",
+    "text": "You are turning healthy breaks into second nature—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q081",
+    "text": "Small daily mobility work preserves comfortable joint range—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q082",
+    "text": "Release the tension hiding between your shoulder blades—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q083",
+    "text": "Your joints love it when you take a break—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q084",
+    "text": "Gradual ten-percent steps build lasting endurance safely—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q085",
+    "text": "Treat your body like a friend, not a machine—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q086",
+    "text": "You showed up for your body today—nice work—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q087",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q088",
+    "text": "Give your neck a soft pause from the screen—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q089",
+    "text": "Every single reset puts energy back in your tank—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q090",
+    "text": "Consistent three-minute resets add over an hour weekly—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q091",
+    "text": "Step away from the keyboard and lengthen your spine—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q092",
+    "text": "Small wins stack up faster than you think—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q093",
+    "text": "Ten gentle reps wake up postural muscles without soreness—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q094",
+    "text": "Let your eyes rest on something far and green—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q095",
+    "text": "You are turning healthy breaks into second nature—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q096",
+    "text": "Small daily mobility work preserves comfortable joint range—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q097",
+    "text": "Release the tension hiding between your shoulder blades—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q098",
+    "text": "Your joints love it when you take a break—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q099",
+    "text": "Gradual ten-percent steps build lasting endurance safely—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q100",
+    "text": "Treat your body like a friend, not a machine—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q101",
+    "text": "You showed up for your body today—nice work—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q102",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q103",
+    "text": "Give your neck a soft pause from the screen—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q104",
+    "text": "Every single reset puts energy back in your tank—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q105",
+    "text": "Consistent three-minute resets add over an hour weekly—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q106",
+    "text": "Step away from the keyboard and lengthen your spine—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q107",
+    "text": "Small wins stack up faster than you think—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q108",
+    "text": "Ten gentle reps wake up postural muscles without soreness—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q109",
+    "text": "Let your eyes rest on something far and green—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q110",
+    "text": "You are turning healthy breaks into second nature—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q111",
+    "text": "Small daily mobility work preserves comfortable joint range—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q112",
+    "text": "Release the tension hiding between your shoulder blades—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q113",
+    "text": "Your joints love it when you take a break—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q114",
+    "text": "Gradual ten-percent steps build lasting endurance safely—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q115",
+    "text": "Treat your body like a friend, not a machine—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q116",
+    "text": "You showed up for your body today—nice work—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q117",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q118",
+    "text": "Give your neck a soft pause from the screen—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q119",
+    "text": "Every single reset puts energy back in your tank—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q120",
+    "text": "Consistent three-minute resets add over an hour weekly—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q121",
+    "text": "Step away from the keyboard and lengthen your spine—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q122",
+    "text": "Small wins stack up faster than you think—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q123",
+    "text": "Ten gentle reps wake up postural muscles without soreness—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q124",
+    "text": "Let your eyes rest on something far and green—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q125",
+    "text": "You are turning healthy breaks into second nature—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q126",
+    "text": "Small daily mobility work preserves comfortable joint range—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q127",
+    "text": "Release the tension hiding between your shoulder blades—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q128",
+    "text": "Your joints love it when you take a break—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q129",
+    "text": "Gradual ten-percent steps build lasting endurance safely—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q130",
+    "text": "Treat your body like a friend, not a machine—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q131",
+    "text": "You showed up for your body today—nice work—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q132",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q133",
+    "text": "Give your neck a soft pause from the screen—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q134",
+    "text": "Every single reset puts energy back in your tank—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q135",
+    "text": "Consistent three-minute resets add over an hour weekly—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q136",
+    "text": "Step away from the keyboard and lengthen your spine—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q137",
+    "text": "Small wins stack up faster than you think—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q138",
+    "text": "Ten gentle reps wake up postural muscles without soreness—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q139",
+    "text": "Let your eyes rest on something far and green—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q140",
+    "text": "You are turning healthy breaks into second nature—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q141",
+    "text": "Small daily mobility work preserves comfortable joint range—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q142",
+    "text": "Release the tension hiding between your shoulder blades—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q143",
+    "text": "Your joints love it when you take a break—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q144",
+    "text": "Gradual ten-percent steps build lasting endurance safely—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q145",
+    "text": "Treat your body like a friend, not a machine—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q146",
+    "text": "You showed up for your body today—nice work—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q147",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q148",
+    "text": "Give your neck a soft pause from the screen—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q149",
+    "text": "Every single reset puts energy back in your tank—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q150",
+    "text": "Consistent three-minute resets add over an hour weekly—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q151",
+    "text": "Step away from the keyboard and lengthen your spine—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q152",
+    "text": "Small wins stack up faster than you think—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q153",
+    "text": "Ten gentle reps wake up postural muscles without soreness—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q154",
+    "text": "Let your eyes rest on something far and green—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q155",
+    "text": "You are turning healthy breaks into second nature—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q156",
+    "text": "Small daily mobility work preserves comfortable joint range—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q157",
+    "text": "Release the tension hiding between your shoulder blades—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q158",
+    "text": "Your joints love it when you take a break—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q159",
+    "text": "Gradual ten-percent steps build lasting endurance safely—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q160",
+    "text": "Treat your body like a friend, not a machine—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q161",
+    "text": "You showed up for your body today—nice work—start with one slow breath.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q162",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—start with one slow breath.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q163",
+    "text": "Give your neck a soft pause from the screen—start with one slow breath.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q164",
+    "text": "Every single reset puts energy back in your tank—start with one slow breath.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q165",
+    "text": "Consistent three-minute resets add over an hour weekly—start with one slow breath.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q166",
+    "text": "Step away from the keyboard and lengthen your spine—start with one slow breath.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q167",
+    "text": "Small wins stack up faster than you think—start with one slow breath.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q168",
+    "text": "Ten gentle reps wake up postural muscles without soreness—start with one slow breath.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q169",
+    "text": "Let your eyes rest on something far and green—start with one slow breath.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q170",
+    "text": "You are turning healthy breaks into second nature—start with one slow breath.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q171",
+    "text": "Small daily mobility work preserves comfortable joint range—start with one slow breath.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q172",
+    "text": "Release the tension hiding between your shoulder blades—start with one slow breath.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q173",
+    "text": "Your joints love it when you take a break—start with one slow breath.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q174",
+    "text": "Gradual ten-percent steps build lasting endurance safely—start with one slow breath.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q175",
+    "text": "Treat your body like a friend, not a machine—start with one slow breath.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q176",
+    "text": "You showed up for your body today—nice work—your body notices every bit of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q177",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—your body notices every bit of care.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q178",
+    "text": "Give your neck a soft pause from the screen—your body notices every bit of care.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q179",
+    "text": "Every single reset puts energy back in your tank—your body notices every bit of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q180",
+    "text": "Consistent three-minute resets add over an hour weekly—your body notices every bit of care.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q181",
+    "text": "Step away from the keyboard and lengthen your spine—your body notices every bit of care.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q182",
+    "text": "Small wins stack up faster than you think—your body notices every bit of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q183",
+    "text": "Ten gentle reps wake up postural muscles without soreness—your body notices every bit of care.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q184",
+    "text": "Let your eyes rest on something far and green—your body notices every bit of care.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q185",
+    "text": "You are turning healthy breaks into second nature—your body notices every bit of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q186",
+    "text": "Small daily mobility work preserves comfortable joint range—your body notices every bit of care.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q187",
+    "text": "Release the tension hiding between your shoulder blades—your body notices every bit of care.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q188",
+    "text": "Your joints love it when you take a break—your body notices every bit of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q189",
+    "text": "Gradual ten-percent steps build lasting endurance safely—your body notices every bit of care.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q190",
+    "text": "Treat your body like a friend, not a machine—your body notices every bit of care.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q191",
+    "text": "You showed up for your body today—nice work—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q192",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q193",
+    "text": "Give your neck a soft pause from the screen—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q194",
+    "text": "Every single reset puts energy back in your tank—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q195",
+    "text": "Consistent three-minute resets add over an hour weekly—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q196",
+    "text": "Step away from the keyboard and lengthen your spine—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q197",
+    "text": "Small wins stack up faster than you think—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q198",
+    "text": "Ten gentle reps wake up postural muscles without soreness—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q199",
+    "text": "Let your eyes rest on something far and green—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q200",
+    "text": "You are turning healthy breaks into second nature—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q201",
+    "text": "Small daily mobility work preserves comfortable joint range—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q202",
+    "text": "Release the tension hiding between your shoulder blades—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q203",
+    "text": "Your joints love it when you take a break—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q204",
+    "text": "Gradual ten-percent steps build lasting endurance safely—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q205",
+    "text": "Treat your body like a friend, not a machine—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q206",
+    "text": "You showed up for your body today—nice work—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q207",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q208",
+    "text": "Give your neck a soft pause from the screen—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q209",
+    "text": "Every single reset puts energy back in your tank—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q210",
+    "text": "Consistent three-minute resets add over an hour weekly—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q211",
+    "text": "Step away from the keyboard and lengthen your spine—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q212",
+    "text": "Small wins stack up faster than you think—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q213",
+    "text": "Ten gentle reps wake up postural muscles without soreness—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q214",
+    "text": "Let your eyes rest on something far and green—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q215",
+    "text": "You are turning healthy breaks into second nature—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q216",
+    "text": "Small daily mobility work preserves comfortable joint range—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q217",
+    "text": "Release the tension hiding between your shoulder blades—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q218",
+    "text": "Your joints love it when you take a break—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q219",
+    "text": "Gradual ten-percent steps build lasting endurance safely—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q220",
+    "text": "Treat your body like a friend, not a machine—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q221",
+    "text": "You showed up for your body today—nice work—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q222",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q223",
+    "text": "Give your neck a soft pause from the screen—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q224",
+    "text": "Every single reset puts energy back in your tank—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q225",
+    "text": "Consistent three-minute resets add over an hour weekly—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q226",
+    "text": "Step away from the keyboard and lengthen your spine—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q227",
+    "text": "Small wins stack up faster than you think—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q228",
+    "text": "Ten gentle reps wake up postural muscles without soreness—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q229",
+    "text": "Let your eyes rest on something far and green—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q230",
+    "text": "You are turning healthy breaks into second nature—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q231",
+    "text": "Small daily mobility work preserves comfortable joint range—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q232",
+    "text": "Release the tension hiding between your shoulder blades—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q233",
+    "text": "Your joints love it when you take a break—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q234",
+    "text": "Gradual ten-percent steps build lasting endurance safely—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q235",
+    "text": "Treat your body like a friend, not a machine—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q236",
+    "text": "You showed up for your body today—nice work—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q237",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q238",
+    "text": "Give your neck a soft pause from the screen—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q239",
+    "text": "Every single reset puts energy back in your tank—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q240",
+    "text": "Consistent three-minute resets add over an hour weekly—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q241",
+    "text": "Step away from the keyboard and lengthen your spine—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q242",
+    "text": "Small wins stack up faster than you think—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q243",
+    "text": "Ten gentle reps wake up postural muscles without soreness—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q244",
+    "text": "Let your eyes rest on something far and green—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q245",
+    "text": "You are turning healthy breaks into second nature—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q246",
+    "text": "Small daily mobility work preserves comfortable joint range—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q247",
+    "text": "Release the tension hiding between your shoulder blades—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q248",
+    "text": "Your joints love it when you take a break—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q249",
+    "text": "Gradual ten-percent steps build lasting endurance safely—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q250",
+    "text": "Treat your body like a friend, not a machine—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q251",
+    "text": "You showed up for your body today—nice work—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q252",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q253",
+    "text": "Give your neck a soft pause from the screen—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q254",
+    "text": "Every single reset puts energy back in your tank—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q255",
+    "text": "Consistent three-minute resets add over an hour weekly—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q256",
+    "text": "Step away from the keyboard and lengthen your spine—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q257",
+    "text": "Small wins stack up faster than you think—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q258",
+    "text": "Ten gentle reps wake up postural muscles without soreness—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q259",
+    "text": "Let your eyes rest on something far and green—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q260",
+    "text": "You are turning healthy breaks into second nature—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q261",
+    "text": "Small daily mobility work preserves comfortable joint range—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q262",
+    "text": "Release the tension hiding between your shoulder blades—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q263",
+    "text": "Your joints love it when you take a break—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q264",
+    "text": "Gradual ten-percent steps build lasting endurance safely—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q265",
+    "text": "Treat your body like a friend, not a machine—reset your posture and enjoy the relief.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q266",
+    "text": "You showed up for your body today—nice work—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q267",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q268",
+    "text": "Give your neck a soft pause from the screen—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q269",
+    "text": "Every single reset puts energy back in your tank—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q270",
+    "text": "Consistent three-minute resets add over an hour weekly—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q271",
+    "text": "Step away from the keyboard and lengthen your spine—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q272",
+    "text": "Small wins stack up faster than you think—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q273",
+    "text": "Ten gentle reps wake up postural muscles without soreness—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q274",
+    "text": "Let your eyes rest on something far and green—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q275",
+    "text": "You are turning healthy breaks into second nature—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q276",
+    "text": "Small daily mobility work preserves comfortable joint range—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q277",
+    "text": "Release the tension hiding between your shoulder blades—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q278",
+    "text": "Your joints love it when you take a break—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q279",
+    "text": "Gradual ten-percent steps build lasting endurance safely—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q280",
+    "text": "Treat your body like a friend, not a machine—little habits shape how your week feels.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q281",
+    "text": "You showed up for your body today—nice work—start with one slow breath.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q282",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—start with one slow breath.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q283",
+    "text": "Give your neck a soft pause from the screen—start with one slow breath.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q284",
+    "text": "Every single reset puts energy back in your tank—start with one slow breath.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q285",
+    "text": "Consistent three-minute resets add over an hour weekly—start with one slow breath.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q286",
+    "text": "Step away from the keyboard and lengthen your spine—start with one slow breath.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q287",
+    "text": "Small wins stack up faster than you think—start with one slow breath.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q288",
+    "text": "Ten gentle reps wake up postural muscles without soreness—start with one slow breath.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q289",
+    "text": "Let your eyes rest on something far and green—start with one slow breath.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q290",
+    "text": "You are turning healthy breaks into second nature—start with one slow breath.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q291",
+    "text": "Small daily mobility work preserves comfortable joint range—start with one slow breath.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q292",
+    "text": "Release the tension hiding between your shoulder blades—start with one slow breath.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q293",
+    "text": "Your joints love it when you take a break—start with one slow breath.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q294",
+    "text": "Gradual ten-percent steps build lasting endurance safely—start with one slow breath.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q295",
+    "text": "Treat your body like a friend, not a machine—start with one slow breath.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q296",
+    "text": "You showed up for your body today—nice work—your body notices every bit of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q297",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—your body notices every bit of care.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q298",
+    "text": "Give your neck a soft pause from the screen—your body notices every bit of care.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q299",
+    "text": "Every single reset puts energy back in your tank—your body notices every bit of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q300",
+    "text": "Consistent three-minute resets add over an hour weekly—your body notices every bit of care.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q301",
+    "text": "Step away from the keyboard and lengthen your spine—your body notices every bit of care.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q302",
+    "text": "Small wins stack up faster than you think—your body notices every bit of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q303",
+    "text": "Ten gentle reps wake up postural muscles without soreness—your body notices every bit of care.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q304",
+    "text": "Let your eyes rest on something far and green—your body notices every bit of care.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q305",
+    "text": "You are turning healthy breaks into second nature—your body notices every bit of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q306",
+    "text": "Small daily mobility work preserves comfortable joint range—your body notices every bit of care.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q307",
+    "text": "Release the tension hiding between your shoulder blades—your body notices every bit of care.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q308",
+    "text": "Your joints love it when you take a break—your body notices every bit of care.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q309",
+    "text": "Gradual ten-percent steps build lasting endurance safely—your body notices every bit of care.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q310",
+    "text": "Treat your body like a friend, not a machine—your body notices every bit of care.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q311",
+    "text": "You showed up for your body today—nice work—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q312",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q313",
+    "text": "Give your neck a soft pause from the screen—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q314",
+    "text": "Every single reset puts energy back in your tank—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q315",
+    "text": "Consistent three-minute resets add over an hour weekly—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q316",
+    "text": "Step away from the keyboard and lengthen your spine—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q317",
+    "text": "Small wins stack up faster than you think—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q318",
+    "text": "Ten gentle reps wake up postural muscles without soreness—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q319",
+    "text": "Let your eyes rest on something far and green—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q320",
+    "text": "You are turning healthy breaks into second nature—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q321",
+    "text": "Small daily mobility work preserves comfortable joint range—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q322",
+    "text": "Release the tension hiding between your shoulder blades—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q323",
+    "text": "Your joints love it when you take a break—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q324",
+    "text": "Gradual ten-percent steps build lasting endurance safely—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q325",
+    "text": "Treat your body like a friend, not a machine—keep the motion smooth and unhurried.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q326",
+    "text": "You showed up for your body today—nice work—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q327",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q328",
+    "text": "Give your neck a soft pause from the screen—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q329",
+    "text": "Every single reset puts energy back in your tank—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q330",
+    "text": "Consistent three-minute resets add over an hour weekly—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q331",
+    "text": "Step away from the keyboard and lengthen your spine—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q332",
+    "text": "Small wins stack up faster than you think—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q333",
+    "text": "Ten gentle reps wake up postural muscles without soreness—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q334",
+    "text": "Let your eyes rest on something far and green—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q335",
+    "text": "You are turning healthy breaks into second nature—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q336",
+    "text": "Small daily mobility work preserves comfortable joint range—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q337",
+    "text": "Release the tension hiding between your shoulder blades—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q338",
+    "text": "Your joints love it when you take a break—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q339",
+    "text": "Gradual ten-percent steps build lasting endurance safely—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q340",
+    "text": "Treat your body like a friend, not a machine—let comfort guide your pace today.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q341",
+    "text": "You showed up for your body today—nice work—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q342",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q343",
+    "text": "Give your neck a soft pause from the screen—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q344",
+    "text": "Every single reset puts energy back in your tank—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q345",
+    "text": "Consistent three-minute resets add over an hour weekly—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q346",
+    "text": "Step away from the keyboard and lengthen your spine—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q347",
+    "text": "Small wins stack up faster than you think—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q348",
+    "text": "Ten gentle reps wake up postural muscles without soreness—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q349",
+    "text": "Let your eyes rest on something far and green—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q350",
+    "text": "You are turning healthy breaks into second nature—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q351",
+    "text": "Small daily mobility work preserves comfortable joint range—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q352",
+    "text": "Release the tension hiding between your shoulder blades—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q353",
+    "text": "Your joints love it when you take a break—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q354",
+    "text": "Gradual ten-percent steps build lasting endurance safely—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q355",
+    "text": "Treat your body like a friend, not a machine—even a tiny pause makes a real difference.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q356",
+    "text": "You showed up for your body today—nice work—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q357",
+    "text": "Frequent micro-movements keep blood flowing to tired muscles—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q358",
+    "text": "Give your neck a soft pause from the screen—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q359",
+    "text": "Every single reset puts energy back in your tank—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  },
+  {
+    "id": "q360",
+    "text": "Consistent three-minute resets add over an hour weekly—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Relax your jaw and soften your gaze."
+  },
+  {
+    "id": "q361",
+    "text": "Step away from the keyboard and lengthen your spine—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Take a slow breath before clicking back into focus."
+  },
+  {
+    "id": "q362",
+    "text": "Small wins stack up faster than you think—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Drop your shoulders away from your ears right now."
+  },
+  {
+    "id": "q363",
+    "text": "Ten gentle reps wake up postural muscles without soreness—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "data",
+    "prompt": "Look 20 feet away for three slow breaths."
+  },
+  {
+    "id": "q364",
+    "text": "Let your eyes rest on something far and green—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "gentle",
+    "prompt": "Uncross your legs and rest both feet flat."
+  },
+  {
+    "id": "q365",
+    "text": "You are turning healthy breaks into second nature—stay easy on your joints as you move.",
+    "author": "Original",
+    "style": "cheerleader",
+    "prompt": "Sip some water after your next stretch."
+  }
+]

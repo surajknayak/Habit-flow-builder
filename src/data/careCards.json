@@ -1,0 +1,293 @@
+[
+  {
+    "id": "lower-back",
+    "title": "Lower back",
+    "do": [
+      "Keep moving gently with short walks.",
+      "Change position every 30 to 45 minutes.",
+      "Strengthen your hips and core slowly over weeks."
+    ],
+    "dont": [
+      "Stay in bed for long periods.",
+      "Lift heavy loads with a rounded back.",
+      "Push through sharp pain."
+    ],
+    "recover": [
+      "Walk for 5 to 10 minutes several times a day.",
+      "Use warmth if it feels soothing.",
+      "Return to normal movement in small steps, adding about 10% a week."
+    ],
+    "seeDoctor": [
+      "Numbness or weakness in a leg",
+      "Pain after a fall or accident",
+      "Loss of bladder or bowel control",
+      "Pain that keeps getting worse or wakes you at night"
+    ]
+  },
+  {
+    "id": "neck-shoulders",
+    "title": "Neck and shoulders",
+    "do": [
+      "Keep your screen at eye level.",
+      "Take micro-breaks every 30 minutes.",
+      "Do chin tucks and shoulder blade squeezes."
+    ],
+    "dont": [
+      "Cradle a phone on your shoulder.",
+      "Look down at a screen for long periods.",
+      "Sleep on a very high pillow."
+    ],
+    "recover": [
+      "Alternate short gentle stretches with movement.",
+      "Use warmth if it helps.",
+      "Check your desk setup (posture screen)."
+    ],
+    "seeDoctor": [
+      "Numbness or tingling in your arms",
+      "Severe headache with neck pain",
+      "Pain after an accident"
+    ]
+  },
+  {
+    "id": "eyes",
+    "title": "Eye strain",
+    "do": [
+      "Follow 20-20-20: every 20 minutes look 20 feet away for 20 seconds.",
+      "Match screen brightness to your room.",
+      "Blink often."
+    ],
+    "dont": [
+      "Use a bright screen in a dark room.",
+      "Rub your eyes hard."
+    ],
+    "recover": [
+      "Rest your eyes in palming for a minute.",
+      "Use larger text and a little more distance."
+    ],
+    "seeDoctor": [
+      "Sudden vision change",
+      "Eye pain or redness that persists",
+      "Flashes or floaters appearing suddenly"
+    ]
+  },
+  {
+    "id": "ankle-foot",
+    "title": "Ankle or foot",
+    "do": [
+      "Begin gentle movement early as pain allows.",
+      "Add balance work as it settles.",
+      "Wear supportive shoes."
+    ],
+    "dont": [
+      "Push through sharp pain.",
+      "Run or jump on an unstable ankle."
+    ],
+    "recover": [
+      "Start with ankle circles, then balance exercises.",
+      "Progress to calf raises when there is no sharp pain."
+    ],
+    "seeDoctor": [
+      "You cannot put weight on it",
+      "Major swelling or bruising",
+      "Numbness or the foot looks out of shape"
+    ]
+  },
+  {
+    "id": "wrists-hands",
+    "title": "Wrists and hands",
+    "do": [
+      "Keep your wrists in a neutral position.",
+      "Take micro-breaks and do hand glides.",
+      "Use a relaxed grip on your mouse."
+    ],
+    "dont": [
+      "Rest your wrists on a hard desk edge while typing.",
+      "Type or click for long periods without breaks."
+    ],
+    "recover": [
+      "Stretch gently and rest between tasks.",
+      "Check keyboard and mouse height."
+    ],
+    "seeDoctor": [
+      "Persistent tingling or numbness",
+      "Night pain that wakes you",
+      "Weakness or dropping things"
+    ]
+  },
+  {
+    "id": "upper-back",
+    "title": "Upper back",
+    "do": [
+      "Open your chest and roll your shoulders every hour.",
+      "Support your forearms on the desk or chair armrests.",
+      "Breathe deeply into your ribs to ease stiffness."
+    ],
+    "dont": [
+      "Slump forward toward the monitor for hours.",
+      "Force aggressive twists when your back feels tight."
+    ],
+    "recover": [
+      "Do gentle seated cat-cow and shoulder blade squeezes.",
+      "Take short walks to let your spine move naturally."
+    ],
+    "seeDoctor": [
+      "Pain accompanied by shortness of breath or chest pressure",
+      "Numbness or pins and needles around your ribs or arms",
+      "Pain following a fall or impact"
+    ]
+  },
+  {
+    "id": "hips",
+    "title": "Hips",
+    "do": [
+      "Stand up and walk for a minute every 40 minutes.",
+      "Uncross your legs while sitting at your desk.",
+      "Do gentle hip flexor stretches and glute squeezes."
+    ],
+    "dont": [
+      "Sit in low, soft chairs for long stretches.",
+      "Force deep hip stretches that pinch in the front."
+    ],
+    "recover": [
+      "Alternate sitting and standing if possible.",
+      "Take easy flat walks before adding hills or stairs."
+    ],
+    "seeDoctor": [
+      "Sudden inability to bear weight on your leg",
+      "Sharp groin pain that catches or locks",
+      "Pain after a fall or hip injury"
+    ]
+  },
+  {
+    "id": "knees",
+    "title": "Knees",
+    "do": [
+      "Keep your knees gently aligned with your toes when standing up.",
+      "Build leg and hip strength with slow, controlled movements.",
+      "Extend your legs periodically during long desk sessions."
+    ],
+    "dont": [
+      "Tuck your feet tightly under your chair for hours.",
+      "Jump or squat deeply into sharp knee discomfort."
+    ],
+    "recover": [
+      "Choose flat walking and gentle sit-to-stands to a higher chair.",
+      "Increase walking duration gradually by at most 10% a week."
+    ],
+    "seeDoctor": [
+      "Your knee locks, catches or gives way",
+      "Significant swelling, heat or redness around the joint",
+      "Inability to straighten or bend the knee fully"
+    ]
+  },
+  {
+    "id": "headaches",
+    "title": "Headaches",
+    "do": [
+      "Relax your jaw and drop your shoulders away from your ears.",
+      "Drink water regularly and rest your eyes from bright screens.",
+      "Take slow belly breaths in a quiet spot."
+    ],
+    "dont": [
+      "Squint at small text or glare on your monitor.",
+      "Skip breaks when you feel neck tension building."
+    ],
+    "recover": [
+      "Dim screen brightness and do palming for 40 seconds.",
+      "Try gentle chin tucks and neck releases without forcing."
+    ],
+    "seeDoctor": [
+      "A sudden, severe headache unlike any you have had before",
+      "Headache with fever, stiff neck, confusion or vision changes",
+      "Headache following a head injury"
+    ]
+  },
+  {
+    "id": "high-bp",
+    "title": "High blood pressure",
+    "do": [
+      "Breathe smoothly through every movement without holding your breath.",
+      "Choose steady, rhythmic walking and gentle mobility.",
+      "Warm up and cool down gradually."
+    ],
+    "dont": [
+      "Hold your breath or strain hard during exercises.",
+      "Stand up abruptly from folded positions."
+    ],
+    "recover": [
+      "Keep daily walks at a comfortable conversational pace.",
+      "Sit and rest calmly if you ever feel lightheaded."
+    ],
+    "seeDoctor": [
+      "Talk to your doctor before exercise",
+      "Chest discomfort, shortness of breath or dizziness",
+      "Severe headache or blurred vision"
+    ]
+  },
+  {
+    "id": "heart",
+    "title": "Heart condition",
+    "do": [
+      "Follow the pace and activity limits advised by your doctor.",
+      "Use the talk test: keep movement easy enough to speak comfortably.",
+      "Take longer warm-ups and cool-downs."
+    ],
+    "dont": [
+      "Exercise when you feel unwell, dizzy or unusually fatigued.",
+      "Push into breathless or high-strain intervals."
+    ],
+    "recover": [
+      "Focus on gentle seated resets and easy flat walks.",
+      "Stop immediately and rest if you feel any unusual symptoms."
+    ],
+    "seeDoctor": [
+      "Talk to your doctor before exercise",
+      "Chest pain, pressure, tightness or fluttering",
+      "Dizziness, faintness or unusual shortness of breath"
+    ]
+  },
+  {
+    "id": "pregnancy",
+    "title": "Pregnancy",
+    "do": [
+      "Move gently with upright posture and steady breathing.",
+      "Drink water and keep cool during movement.",
+      "Use a chair or wall for balance as your centre of gravity shifts."
+    ],
+    "dont": [
+      "Do deep closed twists or hold your breath.",
+      "Push to exhaustion or overheat."
+    ],
+    "recover": [
+      "Choose short, frequent walks and seated posture resets.",
+      "Rest with your feet elevated when your ankles feel tired."
+    ],
+    "seeDoctor": [
+      "Talk to your doctor before exercise",
+      "Dizziness, headache, chest pain or shortness of breath before exertion",
+      "Calf pain, swelling or any unusual pain or bleeding"
+    ]
+  },
+  {
+    "id": "recent-surgery",
+    "title": "Recent surgery",
+    "do": [
+      "Follow your surgeon or physical therapist's exact movement guidelines.",
+      "Start with gentle breathing, eye resets and approved short walks.",
+      "Move slowly and stay well within a comfortable range."
+    ],
+    "dont": [
+      "Stretch, lift or twist near a healing area without clearance.",
+      "Ignore new swelling, warmth or pulling sensations."
+    ],
+    "recover": [
+      "Prioritise rest and tiny circulation breaks approved by your care team.",
+      "Add gentle mobility only when cleared."
+    ],
+    "seeDoctor": [
+      "Talk to your doctor before exercise",
+      "Increased redness, warmth, swelling or drainage at the site",
+      "Fever or sudden worsening pain"
+    ]
+  }
+]
